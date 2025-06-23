@@ -47,15 +47,13 @@
 
 📈 **My Recent Projects**
 
-- 🔍 [Sales Forecasting with Prophet](https://github.com/your-username/project-forecast)
-- 📊 [Power BI Dashboard for E-commerce](https://github.com/your-username/powerbi-ecom-dashboard)
-- 💡 [Kaggle: Titanic Survival Prediction](https://github.com/your-username/kaggle-titanic)
+- 🧍‍♂️ [Looker E-Commerce Customer Behavior](https://github.com/malekzada/looker_ecommerce)
+- 🛍️ [Instacart Grocery Basket Analysis](https://github.com/malekzada/Instacart)
+- 🍿 [Rockbuster Stealth Analysis](https://github.com/malekzada/rockbuster)
 
 ---
 
 📫 **Let's connect**
-
-- 🌐 [Portfolio](https://your-portfolio.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/faisalmalekzada/)
 
 ---
