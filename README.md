@@ -30,7 +30,10 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/-Statsmodels-003B6F?style=flat&logo=python&logoColor=white)
+
 
 **Data Viz & BI Tools:**  
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -40,8 +43,20 @@
 
 **Others:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 🧰 Other Skills  
+- A/B Testing (T-tests, Chi-square)
+- Regression Analysis
+- Feature Engineering
+- EDA (Exploratory Data Analysis)
+- Web Scraping (BeautifulSoup, Requests)
+- API Calls & JSON Parsing
+- Google Sheets, Notion (Docs & tracking)
 
 ---
 
@@ -53,7 +68,8 @@
 
 ---
 
-📫 **Let's connect**
-- 💼 [LinkedIn](https://www.linkedin.com/in/faisalmalekzada/)
+📫 **Let's connect**  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/faisalmalekzada)
 
 ---
