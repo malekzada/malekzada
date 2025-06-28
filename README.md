@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/faisalmalekzada" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/malekzada/Portfolio/blob/main/Faisal%20Malekzada_Portfolio.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1PTYo5qfT2HtIIq2i_OER_qQpwWha0eQJ/view?usp=sharing" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://public.tableau.com/app/profile/faisal.malekzada/vizzes" target="_blank">
