@@ -33,6 +33,11 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/-Statsmodels-003B6F?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
+![MS SQL](https://img.shields.io/badge/-MS_SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Regression](https://img.shields.io/badge/-Regression-6A1B9A?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Clustering](https://img.shields.io/badge/-Clustering-0E76A8?style=flat&logo=python&logoColor=white)
 
 
 **Data Viz & BI Tools:**  
